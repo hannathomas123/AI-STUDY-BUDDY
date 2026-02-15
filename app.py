@@ -11,7 +11,7 @@ import re
 # Gemini API Config
 # ---------------------------
 
-GOOGLE_API_KEY="AIzaSyA8ZTF3wuVmbDjKg5RUoKNU7Jg8uTll12w"
+GOOGLE_API_KEY="GEMINI API KEY"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # ---------------------------
@@ -199,3 +199,4 @@ Return JSON format:
                     st.write(f"Q{i+1}: ✅ Correct")
                 else:
                     st.write(f"Q{i+1}: ❌ Correct answer: {c}")
+
