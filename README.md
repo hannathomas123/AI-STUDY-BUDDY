@@ -1,6 +1,7 @@
 
 🤖 AI Study Buddy – Your Smart Study Partner
 
+Live Demo:https://studybuddy-ai-app.streamlit.app
 
  📖 Description
 
